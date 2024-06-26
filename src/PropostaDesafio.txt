@@ -1,3 +1,7 @@
 A proposta inicial do desafio é realizar uma conta bancária, utilizando conhecimentos básicos em Java e POO.
 
-Não foi dado ao desenvolvedor nenhum passo a passo sobre quais atributos ou métodos utilizar. Cabe ao desenvolvedor utilizar sua criatividade para criar uma solução. 
+Foi dado ao desenvolvedor o seguinte texto: 
+
+Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
+
+É da liberdade do desenvolvedor aperfeiçoar este domínio!
