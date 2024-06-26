@@ -1,0 +1,3 @@
+A proposta inicial do desafio é realizar uma conta bancária, utilizando conhecimentos básicos em Java e POO.
+
+Não foi dado ao desenvolvedor nenhum passo a passo sobre quais atributos ou métodos utilizar. Cabe ao desenvolvedor utilizar sua criatividade para criar uma solução. 
